@@ -43,6 +43,7 @@
 - بكالوريوس في **تقنية المعلومات** من جامعة **الرازي**، 2024.
 
 ## 🏆 الدورات التدريبية
+- التدريب في **Bootcamp** في منظمة **مسند** في **Full Stack Web**.
 - دورة **تصميم الرسوم**.
 - دورة **الرسوم المتحركة**.
 - **دبلوم اللغة الإنجليزية**.
@@ -107,6 +108,7 @@ I am **Roaa Abdulfattah Al-Wesabi**, a passionate software developer and graphic
 - **Bachelor's Degree in Information Technology** from **Al-Razi University**, 2024.
 
 ## 🏆 Training Courses
+- **Bootcamp** training with **Masnad Organization** in **Full Stack Web**.
 - Graphics Design Course.
 - Animation Course.
 - English Diploma.
